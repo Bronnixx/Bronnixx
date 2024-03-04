@@ -1,12 +1,23 @@
-- 👋 Hi, I’m @Bronnixx
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning software engineering.
-- 💞️ I’m looking to collaborate with harlem
-- 📫 You can reach me through @Bronnix._.nerd
-- 😄 Pronouns🥊
-- ⚡ Fun fact💌.
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Welcome Message</title>
+</head>
+<body>
+  <h1>Welcome to My Website!</h1>
+  <p id="welcome-message"></p>
 
-<!---
-Bronnixx/Bronnixx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+  <script>
+    // Function to display a welcome message
+    function displayWelcomeMessage("To my github account") {
+      const welcomeMessage = "Hello! Welcome to my website. My name is [Bronnix._.Nerd] and so excited to see you here with plzz live a fork if necessary🤪.";
+      document.getElementById('welcome-message').textContent = welcomeMessage;
+    }
+
+    // Call the function to display the welcome message
+    displayWelcomeMessage();
+  </script>
+</body>
+</html>
