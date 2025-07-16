@@ -1,5 +1,5 @@
 <h1 align="center">Hello, World. 👋</h1>
-<h3 align="center">I'm <Your Name>. I build things that <strong>dent the universe</strong>.</h3>
+<h3 align="center">I'm <erick ndeto>. I build things that <strong>dent the universe</strong>.</h3>
 
 <p align="center">
   <em>
@@ -15,10 +15,10 @@ I write code to **solve real problems**—elegantly, relentlessly, with zero tol
 ### **🔥 Current Focus**  
 - **Revolutionizing** <your domain>  
 - **Shipping** <your project> *(Because real artists ship.)*  
-- **Learning** <current obsession> *(Stay hungry.)*  
+- **Learning** <software devlopment, Network pentesting> *(Stay hungry.)*  
 
 ### **🛠 Tools**  
-`Languages/Frameworks` | `Key Tech` | `Design Tools`  
+`C,C#,Java` | `Key Tech` | `Design Tools`  
 
 ### **📜 Manifesto**  
 1. **Simplicity is the ultimate sophistication.**  
