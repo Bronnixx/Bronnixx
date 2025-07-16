@@ -3,16 +3,16 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Welcome Message</title>
+  <title>Erick Ndeto</title>
 </head>
 <body>
-  <h1>Welcome to My Website!</h1>
-  <p id="welcome-message"></p>
+  <h1></h1>
+  <p id="Technology alone is not enough. It’s technology married with humanity that changes the world."></p>
 
   <script>
     // Function to display a welcome message
-    function displayWelcomeMessage("To my github account") {
-      const welcomeMessage = "Hello! Welcome to my website. My name is [Bronnix._.Nerd] and so excited to see you here with plzz live a fork if necessary🤪.";
+    function displayWelcomeMessage("I write code to solve real problems—elegantly, relentlessly, with zero tolerance for mediocrity.I guess that's who i am") {
+      const welcomeMessage = "If you believe in putting a dent in the universe, ⭐️ my repos or collaborate. Let’s build the future.";
       document.getElementById('welcome-message').textContent = welcomeMessage;
     }
 
